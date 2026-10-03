@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 390" role="img" aria-labelledby="title desc">
+<title id="title">De tu instrucción a RB Sampling Lab</title>
+<desc id="desc">Cline en Visual Studio Code utiliza la API del modelo local y crea la aplicación. La aplicación consulta documentación de Hugging Face y permite copiar presets.</desc>
+<rect width="900" height="390" rx="20" fill="#13191d"/>
+<g font-family="Arial, sans-serif" text-anchor="middle">
+<text x="450" y="42" fill="#c7f36b" font-size="24" font-weight="bold">DE TU IDEA A UNA APP QUE PUEDES USAR</text>
+<g fill="#223038" stroke="#c7f36b" stroke-width="2">
+<rect x="30" y="78" width="220" height="92" rx="12"/>
+<rect x="340" y="78" width="220" height="92" rx="12"/>
+<rect x="650" y="78" width="220" height="92" rx="12"/>
+<rect x="340" y="250" width="220" height="92" rx="12"/>
+</g>
+<g fill="#fff" font-size="20" font-weight="bold">
+<text x="140" y="112">1. Escribes tu idea</text>
+<text x="450" y="112">2. Cline trabaja</text>
+<text x="760" y="112">3. Modelo local</text>
+<text x="450" y="282">4. Tu aplicación</text>
+</g>
+<g fill="#d3dde0" font-size="15">
+<text x="140" y="142">Pegas el prompt maestro</text>
+<text x="450" y="142">Dentro de Visual Studio Code</text>
+<text x="760" y="142">Conectado mediante su API</text>
+<text x="450" y="312">RB Sampling Lab</text>
+<text x="155" y="276">Consulta fuentes</text>
+<text x="155" y="300">de Hugging Face</text>
+<text x="745" y="276">Muestra presets</text>
+<text x="745" y="300">y copia JSON / INI</text>
+</g>
+<g stroke="#c7f36b" stroke-width="3" fill="none">
+<path d="M260 125H325m-12-8 12 8-12 8M575 117H635m-12-8 12 8-12 8M635 140H575m12-8-12 8 12 8M450 180V231m-8-12 8 12 8-12M268 290H325m-12-8 12 8-12 8M575 290H633m-12-8 12 8-12 8"/>
+</g>
+<text x="450" y="373" fill="#aab8be" font-size="14">La app consulta documentación; los ajustes se aplican al servidor por separado.</text>
+</g>
+</svg>
